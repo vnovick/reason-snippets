@@ -1,0 +1,21 @@
+{
+    "name": "reasonreact-graphql-snippets",
+    "displayName": "reasonreact-graphql-snippets",
+    "description": "ReasonReact with GraphQL snippets using jsx3 syntax",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.35.0"
+    },
+    "publisher": "VladimirNovick",
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "reason",
+                "path": "./snippets/snippets.json"
+            }
+        ]
+    }
+}
