@@ -32,7 +32,7 @@
 "ReasonReact component": {
   "prefix": "rmlcmp",
   "body": [
-      "[@react.component],",
+      "[@react.component]",
       "let make = ($1) => {",
       "  $2",
       "}"
